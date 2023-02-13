@@ -1,0 +1,7 @@
+*.env
+*.csv
+**/ETL/data/ *.csv
+**/ETL/clean_data/ *.csv
+*.log
+**/ETL/debug.log
+*/venv

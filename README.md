@@ -75,8 +75,6 @@ Esto mostrará un  menú con las siguientes opciones
 
 ## Analisis exploratorio de alquiler de Datos 
 
-## Analisis exploratorio de alquiler de Apartamentos en Santiago de Chile
-
 ### - ¿Cuál es la distribución de las características de los departamentos en Arriendo?, como número de baños, número de habitaciones, etc.
 La cantidad de publicaciones tiene:
 - 2 ambientes
