@@ -1,0 +1,25 @@
+inmobiliario_sites:
+  portalinmobiliario:
+    base_url: https://www.portalinmobiliario.com
+    queries:
+      items: ['ui-search-layout__item shops__layout-item','li'] #items
+      link: ['ui-search-result__content-wrapper ui-search-link','a']
+      direction: ['ui-search-item__group__element ui-search-item__location shops__items-group-details','p']
+      price: ['price-tag-text-sr-only','span']
+      title: ['ui-search-item__group__element ui-search-item__information shops__items-group-details','p']
+      
+      rooms: ['ui-search-card-attributes__attribute','li']
+      
+      area: ['ui-search-card-attributes__attribute','li']
+      #detail
+      tabla: ['andes-table__row','tr']
+      code: ['ui-seller-info__status-info__subtitle','p']
+      #gps: ['ui-pdp-image','img']
+      comuna: ['andes-breadcrumb__link','a']
+      gastos_comunes: ['ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-maintenance-fee-ltr','p']
+      published_time: ['ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-seller-validated__title','p']
+     
+      
+     
+
+  
