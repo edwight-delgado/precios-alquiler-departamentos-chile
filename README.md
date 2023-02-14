@@ -9,7 +9,7 @@ En el análisis exploratorio de datos, se encontró la distribución de las cara
 
 En resumen, este proyecto busca ayudar a encontrar la mejor opción de alquiler de departamentos en Santiago de Chile a través de un análisis exploratorio de datos.
 
-Los archivos y scripts completo se pueden ver en mi Github haciendo click aquí.
+El notebook y dataset se pueden ver en kaggel haciendo click [Aquí](https://www.kaggle.com/code/edwight/alquiler-de-departamentos-en-santiago-de-chile).
 
 ### 1. Obteniendo el Data de Arriendos:
  El proceso de Web Scraping consiste en obtener información de una pagina web **portalinmobiliario** de manera automatizada, esta información se guarda en una base de dato llamada **"departamento.db"**,  la informacion se pasa por un proceso de limpieza de la data que se guarda en la carpeta **clean_data** como un archivo **clean_alquiler_dd_mm_yy **.
@@ -39,11 +39,11 @@ Antes de ejecutar este script, asegúrese de tener instalados los paquetes neces
  ```sh
 python3 -m venv venv
  ```
-- Activar el ambiente en bash
+- Activar el ambiente en **bash**
 ```sh
-source venv/Scripts/activate  
+source venv/bin/activate  
 ```
-- activar el ambiente con fish
+- activar el ambiente con **fish**
 ```sh
 source venv/bin/activate.fish 
 ```
