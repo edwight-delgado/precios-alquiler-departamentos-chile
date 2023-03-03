@@ -1,4 +1,4 @@
-#  Analisis exploratorio de alquiler de Apartamentos en Santiago de Chile
+#  Analisis exploratorio de Departamentos en Arriendo en Santiago de Chile
 
 ![](screenshot/chile.jpg)
 
